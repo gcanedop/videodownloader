@@ -1,6 +1,6 @@
 #  Downloader de Vídeos
 
-Baixe vídeos do Twitter, Instagram e YouTube direto pelo terminal, sem precisar do FFmpeg.
+Baixe vídeos do Twitter, Instagram e YouTube direto pelo terminal.
 
 ---
 
