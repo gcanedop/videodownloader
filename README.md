@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### 3. Execute
 ```bash
-python downloader.py
+python main.py
 ```
 
 ---
